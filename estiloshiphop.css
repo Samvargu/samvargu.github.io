@@ -1,0 +1,74 @@
+header{
+    font-size: 25px;
+    font-family: Courier New;
+    text-align: center;
+}
+
+p {
+    font-family: Courier new;
+    font-weight: bold;
+}
+
+ul{
+    list-style-type:square;
+}
+
+header, ul, p{
+    display:block;
+}
+
+.cuerpo{
+    width: 100%;
+   
+}
+
+.eminem{
+    width: 100%;
+}
+
+table, th, tr, td{
+    width: 50%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color:white;
+}
+
+th, tr, td{
+    padding: 15px;
+}
+
+.relapse{
+    width: 80%;
+    padding: 0px;
+    position: relative;
+    top: -500;
+    right: -500;
+    float: right;
+}
+
+.img{
+    padding: 0px;
+    height: 270;
+}
+
+body{
+    background: url(https://www.wallpapertip.com/wmimgs/43-430199_old-school-hip-hop-background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+font{
+    color: white;
+
+}
+
+th{
+   background-color: #1e272e;
+}
+
+.ventas{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
